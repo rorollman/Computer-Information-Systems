@@ -1,0 +1,2 @@
+X was born in New York.
+Y does not like New York. z lives in California.

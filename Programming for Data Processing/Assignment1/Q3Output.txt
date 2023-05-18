@@ -1,0 +1,4 @@
+a. The list of years: 2022. 2019. 2021. 2000. 
+b. 'abc' count: 2 ,
+c. Maximum of year list: 2022, Minimum of year list: 2000
+d. The new string: Sam works in a company abc in New York. _e joined t_e company in 2022. Before joining ABC, _e used to work for a small firm in Arizona. _e worked t_ere from 2019 to 2021. Before moving to Arizona Sam used to live in Sout_ Dakota and _e _as been living t_ere since 2000's.
